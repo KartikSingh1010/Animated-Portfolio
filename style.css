@@ -19,7 +19,7 @@ html, body {
     position: absolute;
     bottom: 0;
     height: 100px;
-    background-color: rgb(4, 72, 4);
+    background-color: red(4, 72, 4);
 }
 
 #white {
